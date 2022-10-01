@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:01.030" end="00:00:05.349" style="s2">well, good afternoon, at this moment</p>
+<p begin="00:00:03.550" end="00:00:07.599" style="s2">we are with the council of rivera</p>
+<p begin="00:00:05.349" end="00:00:09.610" style="s2">huila with the secretary, unfortunately she will</p>
+<p begin="00:00:07.599" end="00:00:12.219" style="s2">not be able to talk to us because she does not have a microphone on</p>
+<p begin="00:00:09.610" end="00:00:14.440" style="s2">her computer, but</p>
+<p begin="00:00:12.219" end="00:00:17.020" style="s2">I will be very attentive to what she writes to me</p>
+<p begin="00:00:14.440" end="00:00:20.530" style="s2">via chat and I threw her</p>
+<p begin="00:00:17.020" end="00:00:24.060" style="s2">answering directly by that means</p>
+<p begin="00:00:20.530" end="00:00:27.060" style="s2">also or by my voice then we are going to</p>
+<p begin="00:00:24.060" end="00:00:27.060" style="s2">start</p>
+<p begin="00:00:27.510" end="00:00:32.400" style="s2">the universal voice profile that we see</p>
+<p begin="00:00:29.970" end="00:00:34.800" style="s2">here is an innovation that we have</p>
+<p begin="00:00:32.400" end="00:00:37.290" style="s2">made for several months now we have a</p>
+<p begin="00:00:34.800" end="00:00:39.150" style="s2">copyright certificate and it is the one that is</p>
+<p begin="00:00:37.290" end="00:00:42.750" style="s2">going to allow so many female voices</p>
+<p begin="00:00:39.150" end="00:00:44.940" style="s2">as a male voice be recognized with the</p>
+<p begin="00:00:42.750" end="00:00:47.550" style="s2">program before starting the</p>
+<p begin="00:00:44.940" end="00:00:51.330" style="s2">demonstration I would like</p>
+<p begin="00:00:47.550" end="00:00:53.129" style="s2">to ask the secretary if your council</p>
+<p begin="00:00:51.330" end="00:00:56.660" style="s2">in the room more</p>
+<p begin="00:00:53.129" end="00:00:59.879" style="s2">specifically have a sound console</p>
+<p begin="00:00:56.660" end="00:01:03.920" style="s2">microphones per councilor or not</p>
+<p begin="00:00:59.879" end="00:01:03.920" style="s2">tell me please secretary</p>
+<p begin="00:01:06.090" end="00:01:11.710" style="s2">ok perfect then  if they have a</p>
+<p begin="00:01:08.579" end="00:01:13.900" style="s2">sound system there will be a</p>
+<p begin="00:01:11.710" end="00:01:15.520" style="s2">very good chance that the</p>
+<p begin="00:01:13.900" end="00:01:18.790" style="s2">real-time plan</p>
+<p begin="00:01:15.520" end="00:01:22.479" style="s2">will work I&#39;m going to start as if  If we were with</p>
+<p begin="00:01:18.790" end="00:01:26.430" style="s2">the laptop that you would acquire, it is</p>
+<p begin="00:01:22.479" end="00:01:27.940" style="s2">a high-end laptop for</p>
+<p begin="00:01:26.430" end="00:01:31.149" style="s2"></p>
+<p begin="00:01:27.940" end="00:01:34.170" style="s2">gamers which is going to allow all the</p>
+<p begin="00:01:31.149" end="00:01:37.890" style="s2">transfer and all the processing transaction to</p>
+<p begin="00:01:34.170" end="00:01:41.350" style="s2">be possible and we can</p>
+<p begin="00:01:37.890" end="00:01:43.860" style="s2">visualize it as at this moment I am going to</p>
+<p begin="00:01:41.350" end="00:01:43.860" style="s2">show you</p>
+<p begin="00:01:56.400" end="00:02:01.290" style="s2">ok then the computer before  of the</p>
+<p begin="00:01:59.790" end="00:02:02.670" style="s2">session</p>
+<p begin="00:02:01.290" end="00:02:05.820" style="s2">the laptop that we supply</p>
+<p begin="00:02:02.670" end="00:02:08.040" style="s2">that comes with everything already pre-installed</p>
+<p begin="00:02:05.820" end="00:02:10.500" style="s2">will have these two systems on the</p>
+<p begin="00:02:08.040" end="00:02:12.720" style="s2">left side a text editor</p>
+<p begin="00:02:10.500" end="00:02:16.320" style="s2">that will receive the transcription in real time</p>
+<p begin="00:02:12.720" end="00:02:18.750" style="s2">and here an audio</p>
+<p begin="00:02:16.320" end="00:02:23.790" style="s2">editor is the audio editor  it is the one that is going to be</p>
+<p begin="00:02:18.750" end="00:02:27.120" style="s2">observed let&#39;s say the sound input and</p>
+<p begin="00:02:23.790" end="00:02:28.650" style="s2">that that sound input is perfect</p>
+<p begin="00:02:27.120" end="00:02:30.930" style="s2">as we see it at this moment that it</p>
+<p begin="00:02:28.650" end="00:02:33.330" style="s2">exceeds the minimum ranges there is no</p>
+<p begin="00:02:30.930" end="00:02:36.240" style="s2">saturation there is no clipping there is nothing of</p>
+<p begin="00:02:33.330" end="00:02:38.100" style="s2">that at this moment then one is one</p>
+<p begin="00:02:36.240" end="00:02:40.590" style="s2">initial verification that we are going to do</p>
+<p begin="00:02:38.100" end="00:02:43.670" style="s2">before using our project</p>
+<p begin="00:02:40.590" end="00:02:46.470" style="s2">so I am going to start at this moment</p>
+<p begin="00:02:43.670" end="00:02:48.990" style="s2">again we are with the advice of</p>
+<p begin="00:02:46.470" end="00:02:51.709" style="s2">rivera huila with him  to the secretary and</p>
+<p begin="00:02:48.990" end="00:02:55.920" style="s2">I am going to start at that moment with the</p>
+<p begin="00:02:51.709" end="00:02:59.250" style="s2">explanation of the three plans plan a</p>
+<p begin="00:02:55.920" end="00:03:01.290" style="s2">plan b and plan c plan a is in</p>
+<p begin="00:02:59.250" end="00:03:03.030" style="s2">real time previously I asked the</p>
+<p begin="00:03:01.290" end="00:03:07.230" style="s2">secretary if she had the sound system</p>
+<p begin="00:03:03.030" end="00:03:11.159" style="s2">that is to say amplification console microphone</p>
+<p begin="00:03:07.230" end="00:03:13.920" style="s2">all this  given that it is essential for the</p>
+<p begin="00:03:11.159" end="00:03:16.709" style="s2">plan that each comptroller council or</p>
+<p begin="00:03:13.920" end="00:03:20.310" style="s2">assembly have this sound system, of</p>
+<p begin="00:03:16.709" end="00:03:21.989" style="s2">course, because everything that is said</p>
+<p begin="00:03:20.310" end="00:03:23.790" style="s2">will enter directly into the console and the</p>
+<p begin="00:03:21.989" end="00:03:26.099" style="s2">console will deliver it to the laptop that</p>
+<p begin="00:03:23.790" end="00:03:28.049" style="s2">we administer, as you can see in</p>
+<p begin="00:03:26.099" end="00:03:30.410" style="s2">At this moment, every time I</p>
+<p begin="00:03:28.049" end="00:03:32.870" style="s2">pause, the system</p>
+<p begin="00:03:30.410" end="00:03:36.170" style="s2">does everything possible because in less than</p>
+<p begin="00:03:32.870" end="00:03:37.940" style="s2">a second, two seconds, the software that</p>
+<p begin="00:03:36.170" end="00:03:41.390" style="s2">brings the transcription in real time,</p>
+<p begin="00:03:37.940" end="00:03:44.750" style="s2">then it is flat with our</p>
+<p begin="00:03:41.390" end="00:03:47.060" style="s2">universal voice profile, is going to deliver 92</p>
+<p begin="00:03:44.750" end="00:03:51.230" style="s2">percent accuracy.  Whether it&#39;s a man or a</p>
+<p begin="00:03:47.060" end="00:03:54.590" style="s2">woman, the person who speaks is</p>
+<p begin="00:03:51.230" end="00:03:57.500" style="s2">the councilors, secretaries of the office, or</p>
+<p begin="00:03:54.590" end="00:04:00.210" style="s2">any speaker that at this time, well,</p>
+<p begin="00:03:57.500" end="00:04:02.760" style="s2">you have,</p>
+<p begin="00:04:00.210" end="00:04:05.920" style="s2">it&#39;s over.  the session and you are already going to</p>
+<p begin="00:04:02.760" end="00:04:08.380" style="s2">have a very important input,</p>
+<p begin="00:04:05.920" end="00:04:12.849" style="s2">which is the entire word-for-word transcription</p>
+<p begin="00:04:08.380" end="00:04:20.019" style="s2">that goes or that has occurred in</p>
+<p begin="00:04:12.849" end="00:04:23.740" style="s2">the session, that 6% or that 8% maximum</p>
+<p begin="00:04:20.019" end="00:04:26.650" style="s2">error and practically it is human error, that is to</p>
+<p begin="00:04:23.740" end="00:04:28.690" style="s2">say, look, yes  you or you are</p>
+<p begin="00:04:26.650" end="00:04:30.700" style="s2">suddenly seeing a word that omitted a</p>
+<p begin="00:04:28.690" end="00:04:34.389" style="s2">word that you spelled wrong was it because</p>
+<p begin="00:04:30.700" end="00:04:36.639" style="s2">she mispronounced it or gabi or used</p>
+<p begin="00:04:34.389" end="00:04:39.639" style="s2">idiomatic fillers or any type</p>
+<p begin="00:04:36.639" end="00:04:41.060" style="s2">of element that the software does not understand,</p>
+<p begin="00:04:39.639" end="00:04:42.940" style="s2">including</p>
+<p begin="00:04:41.060" end="00:04:46.280" style="s2">words that are not in the vocabulary</p>
+<p begin="00:04:42.940" end="00:04:49.430" style="s2">that we can add but that  they are not</p>
+<p begin="00:04:46.280" end="00:04:52.850" style="s2">there in that 8% error it will be</p>
+<p begin="00:04:49.430" end="00:04:54.919" style="s2">included madam secretary</p>
+<p begin="00:04:52.850" end="00:04:56.990" style="s2">please confirm through the chat if you are seeing</p>
+<p begin="00:04:54.919" end="00:04:58.280" style="s2">everything I am talking about in real time</p>
+<p begin="00:04:56.990" end="00:05:00.850" style="s2">and the software is</p>
+<p begin="00:04:58.280" end="00:05:00.850" style="s2">transcribing</p>
+<p begin="00:05:05.190" end="00:05:11.580" style="s2">perfectly then this is the plan am is</p>
+<p begin="00:05:08.700" end="00:05:14.479" style="s2">the plan that  you are going to use</p>
+<p begin="00:05:11.580" end="00:05:17.310" style="s2">even look what there is said then and that is</p>
+<p begin="00:05:14.479" end="00:05:21.120" style="s2">then it was because I said it very</p>
+<p begin="00:05:17.310" end="00:05:23.759" style="s2">quickly and the software simply goes and</p>
+<p begin="00:05:21.120" end="00:05:28.469" style="s2">places the word that is closest to it</p>
+<p begin="00:05:23.759" end="00:05:32.840" style="s2">for example how  or they tell those from</p>
+<p begin="00:05:28.469" end="00:05:32.840" style="s2">ribera william what the name is</p>
+<p begin="00:05:41.800" end="00:05:44.970" style="s2">madam secretary</p>
+<p begin="00:05:48.400" end="00:05:52.800" style="s2">perfect</p>
+<p begin="00:05:50.160" end="00:05:55.140" style="s2">if that word is there the software will</p>
+<p begin="00:05:52.800" end="00:05:57.450" style="s2">place it but if it is not it will place the</p>
+<p begin="00:05:55.140" end="00:06:01.110" style="s2">words that are closest to it then</p>
+<p begin="00:05:57.450" end="00:06:04.100" style="s2">the name of rivera huila is</p>
+<p begin="00:06:01.110" end="00:06:04.100" style="s2">riverenses</p>
+<p begin="00:06:04.169" end="00:06:11.819" style="s2">as you can see  it&#39;s riverense but the</p>
+<p begin="00:06:08.819" end="00:06:16.169" style="s2">plural isn&#39;t there so that&#39;s what it is enters</p>
+<p begin="00:06:11.819" end="00:06:19.800" style="s2">into that 8% error it&#39;s been four minutes</p>
+<p begin="00:06:16.169" end="00:06:24.090" style="s2">of recording and the plan has already been</p>
+<p begin="00:06:19.800" end="00:06:26.940" style="s2">fully explained so we&#39;re going to</p>
+<p begin="00:06:24.090" end="00:06:29.460" style="s2">move on to plan b plan b</p>
+<p begin="00:06:26.940" end="00:06:31.590" style="s2">is with an audio that you already  have it</p>
+<p begin="00:06:29.460" end="00:06:35.720" style="s2">pre-recorded, that is, from</p>
+<p begin="00:06:31.590" end="00:06:35.720" style="s2">previous sessions that have not been able to,</p>
+<p begin="00:06:36.750" end="00:06:41.160" style="s2">if you can, you can even add the</p>
+<p begin="00:06:39.690" end="00:06:43.600" style="s2">word, I am going to do it right</p>
+<p begin="00:06:41.160" end="00:06:47.409" style="s2">now, riverenses,</p>
+<p begin="00:06:43.600" end="00:06:49.269" style="s2">but not riverenses,</p>
+<p begin="00:06:47.409" end="00:06:52.589" style="s2">then I am going to add it and you are going to</p>
+<p begin="00:06:49.269" end="00:06:52.589" style="s2">verify that if it works</p>
+<p begin="00:06:52.740" end="00:06:59.249" style="s2">here, I am going to go  to vocabulary and I&#39;m going to</p>
+<p begin="00:06:56.759" end="00:07:03.019" style="s2">add rivero</p>
+<p begin="00:06:59.249" end="00:07:03.019" style="s2">es riverenses</p>
+<p begin="00:07:03.180" end="00:07:06.169" style="s2">riverenses</p>
+<p begin="00:07:06.860" end="00:07:14.259" style="s2">I&#39;m going to give them double enter riverenses</p>
+<p begin="00:07:11.889" end="00:07:19.210" style="s2">then look that at this moment it has already</p>
+<p begin="00:07:14.259" end="00:07:21.490" style="s2">been added and if you and your council</p>
+<p begin="00:07:19.210" end="00:07:24.039" style="s2">hire us we will  teach a method</p>
+<p begin="00:07:21.490" end="00:07:27.310" style="s2">to add all the words that you</p>
+<p begin="00:07:24.039" end="00:07:29.650" style="s2">have placed in the minutes that you</p>
+<p begin="00:07:27.310" end="00:07:31.389" style="s2">already have ready so that you do not have to</p>
+<p begin="00:07:29.650" end="00:07:33.789" style="s2">do it manually because you imagine</p>
+<p begin="00:07:31.389" end="00:07:36.129" style="s2">putting all the words that</p>
+<p begin="00:07:33.789" end="00:07:38.889" style="s2">suddenly are not in the vocabulary that is</p>
+<p begin="00:07:36.129" end="00:07:42.090" style="s2">needed then there is a method that</p>
+<p begin="00:07:38.889" end="00:07:45.360" style="s2">We can explain to you</p>
+<p begin="00:07:42.090" end="00:07:47.820" style="s2">after the acquisition and</p>
+<p begin="00:07:45.360" end="00:07:50.479" style="s2">training of the project, well, at</p>
+<p begin="00:07:47.820" end="00:07:54.009" style="s2">this moment it&#39;s 5 minutes 34 seconds,</p>
+<p begin="00:07:50.479" end="00:07:56.919" style="s2">so I&#39;m going to</p>
+<p begin="00:07:54.009" end="00:08:00.460" style="s2">look, I keep saying, then excuse me, then I</p>
+<p begin="00:07:56.919" end="00:08:03.729" style="s2">&#39;m going to stop the recording and I&#39;m going</p>
+<p begin="00:08:00.460" end="00:08:07.770" style="s2">to export the mp3 as if you already</p>
+<p begin="00:08:03.729" end="00:08:07.770" style="s2">had a  pre-recorded audio</p>
+<p begin="00:08:09.540" end="00:08:14.340" style="s2">and ready then here I am simply going to</p>
+<p begin="00:08:11.970" end="00:08:19.250" style="s2">export the audio</p>
+<p begin="00:08:14.340" end="00:08:19.250" style="s2">rivera huila 2016</p>
+<p begin="00:08:20.610" end="00:08:27.360" style="s2">the exported 128 kilobits per second and</p>
+<p begin="00:08:24.930" end="00:08:31.430" style="s2">at a frequency of 44 thousand 100 hertz</p>
+<p begin="00:08:27.360" end="00:08:31.430" style="s2">I do not need this anymore</p>
+<p begin="00:08:31.470" end="00:08:37.650" style="s2">and for example if you have an audio</p>
+<p begin="00:08:33.570" end="00:08:41.190" style="s2">of 5 hours here we are going to  minimize to 5</p>
+<p begin="00:08:37.650" end="00:08:44.400" style="s2">minutes we are going to do the sample and</p>
+<p begin="00:08:41.190" end="00:08:48.270" style="s2">test how long it takes to</p>
+<p begin="00:08:44.400" end="00:08:50.040" style="s2">send me the transcript then you</p>
+<p begin="00:08:48.270" end="00:08:52.370" style="s2">know  We know that the audio does not work that it</p>
+<p begin="00:08:50.040" end="00:08:54.750" style="s2">meets the technical characteristics</p>
+<p begin="00:08:52.370" end="00:08:57.670" style="s2">I am simply going to pull it and I am going to</p>
+<p begin="00:08:54.750" end="00:09:02.950" style="s2">start at 9 minutes of recording</p>
+<p begin="00:08:57.670" end="00:09:05.350" style="s2">3 seconds to go it already started at 9</p>
+<p begin="00:09:02.950" end="00:09:07.900" style="s2">minutes of recording as you see it here</p>
+<p begin="00:09:05.350" end="00:09:11.830" style="s2">above it takes 5 seconds it is about to</p>
+<p begin="00:09:07.900" end="00:09:12.640" style="s2">start  to write and transcribe at that</p>
+<p begin="00:09:11.830" end="00:09:15.940" style="s2">percentage</p>
+<p begin="00:09:12.640" end="00:09:18.460" style="s2">then that plan b is going to serve for</p>
+<p begin="00:09:15.940" end="00:09:22.680" style="s2">what you have behind if the audio</p>
+<p begin="00:09:18.460" end="00:09:26.450" style="s2">does not work suddenly it</p>
+<p begin="00:09:22.680" end="00:09:26.450" style="s2">suddenly has some type of</p>
+<p begin="00:09:26.660" end="00:09:32.420" style="s2">and amplification or clipping or saturation</p>
+<p begin="00:09:29.629" end="00:09:34.850" style="s2">we will also teach you how to</p>
+<p begin="00:09:32.420" end="00:09:38.509" style="s2">reduce it and  the shofar can be</p>
+<p begin="00:09:34.850" end="00:09:39.980" style="s2">used for that, but the most important thing</p>
+<p begin="00:09:38.509" end="00:09:43.850" style="s2">is that you, having a sound system,</p>
+<p begin="00:09:39.980" end="00:09:47.149" style="s2">connect the laptop remotely.</p>
+<p begin="00:09:43.850" end="00:09:50.870" style="s2">I&#39;m going to explain how to</p>
+<p begin="00:09:47.149" end="00:09:52.879" style="s2">suddenly reduce the gain of the laptop, but</p>
+<p begin="00:09:50.870" end="00:09:56.329" style="s2">the amplification remains the same, so</p>
+<p begin="00:09:52.879" end="00:09:58.699" style="s2">all this will be in post so that  you</p>
+<p begin="00:09:56.329" end="00:10:00.320" style="s2">can from now on if you decide to</p>
+<p begin="00:09:58.699" end="00:10:03.890" style="s2">hire them to</p>
+<p begin="00:10:00.320" end="00:10:08.010" style="s2">have the sessions ready with a</p>
+<p begin="00:10:03.890" end="00:10:10.660" style="s2">ready text and the recordings that are</p>
+<p begin="00:10:08.010" end="00:10:12.940" style="s2">delayed will also serve you with</p>
+<p begin="00:10:10.660" end="00:10:17.520" style="s2">this plan you see that I am showing you at</p>
+<p begin="00:10:12.940" end="00:10:21.300" style="s2">this moment I have been a minute 14 seconds</p>
+<p begin="00:10:17.520" end="00:10:24.330" style="s2">of 5 minutes and something I am going to</p>
+<p begin="00:10:21.300" end="00:10:28.110" style="s2">verify how long it takes so</p>
+<p begin="00:10:24.330" end="00:10:31.050" style="s2">that you can see that in an audio of</p>
+<p begin="00:10:28.110" end="00:10:35.160" style="s2">so much time it is going to take a long time see it</p>
+<p begin="00:10:31.050" end="00:10:37.310" style="s2">took a  minute 30 seconds, that is to say, from</p>
+<p begin="00:10:35.160" end="00:10:40.090" style="s2">an audio</p>
+<p begin="00:10:37.310" end="00:10:40.090" style="s2">let me</p>
+<p begin="00:10:41.350" end="00:10:49.730" style="s2">rivera huila and here one</p>
+<p begin="00:10:45.830" end="00:10:51.750" style="s2">of an audio of almost six minutes</p>
+<p begin="00:10:49.730" end="00:10:56.379" style="s2">look here it says</p>
+<p begin="00:10:51.750" end="00:11:00.110" style="s2">5 minutes 56 seconds</p>
+<p begin="00:10:56.379" end="00:11:03.350" style="s2">55 seconds almost 6 minutes it took a</p>
+<p begin="00:11:00.110" end="00:11:05.299" style="s2">minute and a half then from an audio of 5</p>
+<p begin="00:11:03.350" end="00:11:08.920" style="s2">hours it will  It will take an hour and a half,</p>
+<p begin="00:11:05.299" end="00:11:13.160" style="s2">but you are going to have a totally</p>
+<p begin="00:11:08.920" end="00:11:15.619" style="s2">reliable text at that 92% with an 8% error,</p>
+<p begin="00:11:13.160" end="00:11:19.220" style="s2">as it says here, and now you are going to be able to</p>
+<p begin="00:11:15.619" end="00:11:20.880" style="s2">edit that 8% error. I am going to stop</p>
+<p begin="00:11:19.220" end="00:11:23.460" style="s2"></p>
+<p begin="00:11:20.880" end="00:11:25.950" style="s2">the recording right now.  I&#39;m going to upload it&#39;s 11</p>
+<p begin="00:11:23.460" end="00:11:28.580" style="s2">minutes you give me 20 seconds I&#39;ll do it</p>
+<p begin="00:11:25.950" end="00:11:28.580" style="s2">and we continue</p>
+</div>
+</body>
+</tt>
